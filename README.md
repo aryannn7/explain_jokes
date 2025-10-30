@@ -1,3 +1,4 @@
 # explain_jokes
-Explain Jokes/n
+Explain Jokes
+
 Want to understand some jokes, JUST WRITE AND ASK :) !!
